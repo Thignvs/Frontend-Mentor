@@ -9,6 +9,11 @@ Users should be able to:
 
 ![](./Screenshot.png)
 
+### Links
+
+- Live Site URL: [Live Page](https://thignvs.github.io/Loopstudios-Landingpage/).
+
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -17,4 +22,4 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - JavaScript
-# Loopstudios-Landingpage
+
